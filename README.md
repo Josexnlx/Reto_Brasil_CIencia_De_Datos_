@@ -1,5 +1,7 @@
 # Reto_Brasil_Ciencia_De_Datos_
-  ## 📄 README: Flujo de Trabajo para el Análisis de Datos de Producción Agrícola
+## 📄 README: Flujo de Trabajo para el Análisis de Datos de Producción Agrícola
+
+**Autores:** Lina Cárdenas, Jennifer Rodríguez, Daniela Villalobos, y Jose Ballesteros.
 
 Este repositorio contiene un *script* de Python diseñado para procesar y analizar datos de producción agrícola provenientes de un archivo de Excel con un formato complejo y multi-encabezado. El objetivo principal es **reestructurar** los datos de un formato amplio y no estándar a un **formato largo (*tidy data*)**, limpiar la información y realizar un **Análisis Exploratorio de Datos (EDA)** básico con visualizaciones clave.
 
